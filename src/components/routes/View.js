@@ -1,4 +1,5 @@
 import React, {PureComponent} from 'react'
+import pell from 'pell'
 
   class View extends PureComponent {
     render() {
